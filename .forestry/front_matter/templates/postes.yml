@@ -1,0 +1,22 @@
+---
+label: postes
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: slug
+  label: slug
+- type: textarea
+  name: description
+  label: description
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: layout
+  label: layout
